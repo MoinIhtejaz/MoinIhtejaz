@@ -2,7 +2,7 @@
 
 Hi! I'm Maheer, a Bachelor of Advanced Computing (Honours) student at the University of Sydney, majoring in Computational Data Science and Finance. I'm a Dalyell Scholar and on the Vice Chancellor's Scholarship.
 
-I like building things end to end and then testing them until they hold up. Most of my recent work is algorithmic trading: I led my team to the top 15% of the SIG Algothon 2026 and to 9th of 40 teams at IMC AlgoJam 2026. As a software engineering intern at 2A Marketing, I was the sole developer on the company's first online sales platform.
+I like building things end to end and then testing them until they hold up. Most of my recent work is algorithmic trading: I led my team to the top 15% of the SIG Algothon 2026 and to 9th of 45 teams at IMC AlgoJam 2026. As a software engineering intern at 2A Marketing, I was the sole developer on the company's first online sales platform.
 
 Lately I've been building software with teams of AI agents in Claude Code. One of those projects shipped a full-stack catalog site in 2 days with 450 passing tests.
 
