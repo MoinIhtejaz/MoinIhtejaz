@@ -1,4 +1,4 @@
-## 💫 About me:
+## About me:
 
 Hi! I'm Maheer, a Bachelor of Advanced Computing (Honours) student at the University of Sydney, majoring in Computational Data Science and Finance. I'm a Dalyell Scholar and on the Vice Chancellor's Scholarship.
 
